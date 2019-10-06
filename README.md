@@ -10,6 +10,6 @@ https://github.com/ymym3412/acl-papers
 遊撃的に読んでいきます。
 
 
-論文まとめはissuesに
-Open:読んでるorいつか読みたい
+論文まとめはissuesに  
+Open:読んでるorいつか読みたい  
 Close:まとめ終わった
